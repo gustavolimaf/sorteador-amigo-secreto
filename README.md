@@ -1,12 +1,12 @@
-# Sorteador de Amigo Secreto 🎁
+# Sorteador de Amigo Secreto 
 
 Bem-vindo ao Sorteador de Amigo Secreto! Este é um projeto simples e divertido para organizar sorteios de amigo secreto (ou amigo oculto) de forma fácil e rápida, diretamente no seu navegador.
 
-## 🎯 Sobre o Projeto
+## Sobre o Projeto
 
 A ideia deste projeto é fornecer uma ferramenta online, leve e de fácil utilização para que qualquer pessoa possa organizar um sorteio de amigo secreto sem complicações. Basta adicionar os nomes dos participantes e deixar que a mágica aconteça!
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 * **Adicionar Participantes:** Insira facilmente o nome de cada participante na lista.
 * **Remover Participantes:** Caso erre algum nome ou alguém desista, é simples remover da lista.
@@ -14,7 +14,7 @@ A ideia deste projeto é fornecer uma ferramenta online, leve e de fácil utiliz
 * **Exibir Resultados:** Os pares de amigo e amigo secreto são exibidos de forma clara.
 * **Interface Simples e Intuitiva:** Design limpo e focado na usabilidade.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Este projeto foi construído utilizando as seguintes tecnologias web padrões:
 
@@ -22,7 +22,7 @@ Este projeto foi construído utilizando as seguintes tecnologias web padrões:
 * **CSS3:** Para a estilização e aparência.
 * **JavaScript (Vanilla JS):** Para toda a lógica de funcionamento do sorteador, manipulação do DOM e interatividade.
 
-## 🚀 Como Usar
+## Como Usar
 
 Como este é um projeto front-end puro, não há necessidade de instalação complexa. Siga os passos abaixo:
 
@@ -48,7 +48,7 @@ Como este é um projeto front-end puro, não há necessidade de instalação com
 3.  Após adicionar todos, clique no botão "Sortear".
 4.  Os resultados do sorteio serão exibidos na tela.
 
-## 🤝 Como Contribuir
+## Como Contribuir
 
 Contribuições são sempre bem-vindas! Se você tem ideias para melhorar este projeto, siga os passos:
 
@@ -58,7 +58,7 @@ Contribuições são sempre bem-vindas! Se você tem ideias para melhorar este p
 4.  Faça **Push** para a sua Branch (`git push origin minha-feature`).
 5.  Abra um **Pull Request**.
 
-## 📝 Licença
+## Licença
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes (se você adicionar um).
 *(Se você não tiver um arquivo LICENSE, pode remover esta seção ou adicionar um. A licença MIT é uma boa opção para projetos open source simples).*
